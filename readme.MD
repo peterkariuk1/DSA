@@ -3,9 +3,9 @@
 
 📊 #Progress
 ✅ Total Problems Solved: X
-🎯 Target: Y Problems
-📆 Started On: YYYY-MM-DD
-🏁 Goal Completion: YYYY-MM-DD
+🎯 Target: 52 Problems
+📆 Started On: 2025, 10th March
+
 
 
 📂 Problem Categories
