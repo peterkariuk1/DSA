@@ -29,7 +29,8 @@ print(binary_search(my_list,3))
 print("Successful")
     
     
- # I did this as an exercise   
+ # I did this as an exercise  
+  
 def my_binary_search(lst2,item2):
     low = 0
     high = len(lst2) - 1
@@ -56,6 +57,19 @@ list_two = [1,2,3,4,5,6,7,8,9,11,20,34,56,44,13,65,78]
 print(my_binary_search(list_two,65))
            
        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
     
     
